@@ -1,4 +1,4 @@
-const server = "http://127.0.0.1:3000";
+const server = "https://gziswcuniy8wailsojnj6aki.hosting.codeyourfuture.io";
 
 const messagesDiv = document.getElementById("messages");
 const form = document.getElementById("chat-form");
